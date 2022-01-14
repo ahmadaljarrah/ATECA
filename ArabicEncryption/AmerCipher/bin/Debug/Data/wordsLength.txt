@@ -1,0 +1,11 @@
+Words length 1: 29
+Words length 2: 441
+Words length 3: 10176
+Words length 4: 95166
+Words length 5: 420928
+Words length 6: 1071373
+Words length 7: 1904365
+Words length 8: 2299466
+Words length 9: 1887445
+Words length 10: 1009741
+Longer: 497086
